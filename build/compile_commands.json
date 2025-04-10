@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/tony/CP_Road/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/count_all.dir/count_all.cpp.o -c /home/tony/CP_Road/Uva_record/count_all.cpp",
+  "file": "/home/tony/CP_Road/Uva_record/count_all.cpp",
+  "output": "CMakeFiles/count_all.dir/count_all.cpp.o"
+},
+{
+  "directory": "/home/tony/CP_Road/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/count_1.dir/UVA_1_star_question/count_1.cpp.o -c /home/tony/CP_Road/Uva_record/UVA_1_star_question/count_1.cpp",
+  "file": "/home/tony/CP_Road/Uva_record/UVA_1_star_question/count_1.cpp",
+  "output": "CMakeFiles/count_1.dir/UVA_1_star_question/count_1.cpp.o"
+},
+{
+  "directory": "/home/tony/CP_Road/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/count_2.dir/UVA_2_star_question/count_2.cpp.o -c /home/tony/CP_Road/Uva_record/UVA_2_star_question/count_2.cpp",
+  "file": "/home/tony/CP_Road/Uva_record/UVA_2_star_question/count_2.cpp",
+  "output": "CMakeFiles/count_2.dir/UVA_2_star_question/count_2.cpp.o"
+},
+{
+  "directory": "/home/tony/CP_Road/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/count_3.dir/UVA_3_star_question/count_3.cpp.o -c /home/tony/CP_Road/Uva_record/UVA_3_star_question/count_3.cpp",
+  "file": "/home/tony/CP_Road/Uva_record/UVA_3_star_question/count_3.cpp",
+  "output": "CMakeFiles/count_3.dir/UVA_3_star_question/count_3.cpp.o"
+},
+{
+  "directory": "/home/tony/CP_Road/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/count_4.dir/UVA_4_star_question/count_4.cpp.o -c /home/tony/CP_Road/Uva_record/UVA_4_star_question/count_4.cpp",
+  "file": "/home/tony/CP_Road/Uva_record/UVA_4_star_question/count_4.cpp",
+  "output": "CMakeFiles/count_4.dir/UVA_4_star_question/count_4.cpp.o"
+},
+{
+  "directory": "/home/tony/CP_Road/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/count_5.dir/UVA_5_star_question/count_5.cpp.o -c /home/tony/CP_Road/Uva_record/UVA_5_star_question/count_5.cpp",
+  "file": "/home/tony/CP_Road/Uva_record/UVA_5_star_question/count_5.cpp",
+  "output": "CMakeFiles/count_5.dir/UVA_5_star_question/count_5.cpp.o"
+}
+]
