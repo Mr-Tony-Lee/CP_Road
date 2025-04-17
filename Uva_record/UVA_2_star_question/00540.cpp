@@ -9,7 +9,6 @@ int main(){
     int n ;
     int kase = 0 ; 
     while(cin >> n , n){
-        if(kase) cout << endl;
         cout << "Scenario #" << ++kase << endl;
 
         map<int,int> num_team ;
@@ -47,6 +46,7 @@ int main(){
                 break;
             }
         }
+        cout << endl;
     }   
 }
 /*
