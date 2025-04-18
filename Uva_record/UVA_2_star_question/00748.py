@@ -11,13 +11,12 @@ while True:
 
         num_point_num = point_a * int(b)
 
-        if(len(ans) <= num_point_num):
+        if(len(ans) <= num_point_num):  # 如果是 0.xxxx ** n 
             ans = "."+ (num_point_num-len(ans))*'0' + ans
             ans.lstrip('0')
             ans.rstrip('0')
         else:
-            ans = ans[:len(ans)-num_point_num]+ "." + ans[len(ans)-num_point_num:].rstrip("0")
-            
+            ans = ans[:len(ans)-num_point_num]+ "." + ans[len(ans)-num_point_num : ].rstrip("0")
         print(ans)
     except EOFError:
         break
