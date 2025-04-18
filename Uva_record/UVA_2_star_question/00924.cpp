@@ -24,7 +24,7 @@ pair<int,int> bfs(int source){
                 }
             }
         }
-        if(next.size() > max_size){
+        if((int)next.size() > max_size){
             max_size = next.size();
             max_round = round ; 
         }
