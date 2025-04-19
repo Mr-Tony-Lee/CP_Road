@@ -13,7 +13,7 @@ int main(){
         int n = 0 ; 
         bool neg = false;
         
-        for(int i = 0 ; i < input.size() ; i++ ){
+        for(int i = 0 ; i < (int)input.size() ; i++ ){
             if( input[i] >= '0' && input[i] <= '9'){
                 n = n*10 + input[i]-'0';
             }
@@ -53,7 +53,7 @@ int main(){
                 neg = false;
             }
         }
-        if(input[input.size()-1] != 'x'){
+        if(input[(int)input.size()-1] != 'x'){
             if(neg) n *= -1 ;
             if(!rightside){
                 value -= n ;
