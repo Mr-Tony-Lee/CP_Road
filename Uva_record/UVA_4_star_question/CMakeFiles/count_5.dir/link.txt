@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/count_5.dir/UVA_5_star_question/count_5.cpp.o -o count_5 

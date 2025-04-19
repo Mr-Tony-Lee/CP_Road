@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/count_all.dir/count_all.cpp.o -o count_all 
