@@ -32,7 +32,7 @@ int main(){
             int now = q.front();
             q.pop();
             visited[now] = true;
-            for(int i = 0 ; i < map[now].size() ; i++ ){
+            for(int i = 0 ; i < (int)map[now].size() ; i++ ){
                 if(color[now] == 1 ){
                     if(color[map[now][i]] == color[now] ){
                         flag = false ;
