@@ -3,7 +3,7 @@
 
 **1星總題數: 234，已解題數✔️: 62，已跳過題數❌: 0**
 
-**2星總題數: 304，已解題數✔️: 65，已跳過題數❌: 0**
+**2星總題數: 304，已解題數✔️: 66，已跳過題數❌: 0**
 
 **3星總題數: 334，已解題數✔️: 37，已跳過題數❌: 2**
 
@@ -82,7 +82,7 @@
 | 269 |   <a href="https://onlinejudge.org/external/9/924.pdf" target="_blank">924</a>   |  ✔️  | 270 |   <a href="https://onlinejudge.org/external/9/967.pdf" target="_blank">967</a>   |  ✔️  | 271 |   <a href="https://onlinejudge.org/external/9/991.pdf" target="_blank">991</a>   |  ✔️  | 272 |   <a href="https://onlinejudge.org/external/9/993.pdf" target="_blank">993</a>   |  ✔️  |
 | 273 |   <a href="https://onlinejudge.org/external/9/997.pdf" target="_blank">997</a>   |  ✔️  | 274 |   <a href="https://onlinejudge.org/external/11/1118.pdf" target="_blank">1118</a>   |  ✔️  | 275 |   <a href="https://onlinejudge.org/external/12/1200.pdf" target="_blank">1200</a>   |  ✔️  | 276 |   <a href="https://onlinejudge.org/external/12/1210.pdf" target="_blank">1210</a>   |  ✔️  |
 | 277 |   <a href="https://onlinejudge.org/external/12/1262.pdf" target="_blank">1262</a>   |  ✔️  | 278 |   <a href="https://onlinejudge.org/external/13/1316.pdf" target="_blank">1316</a>   |  ✔️  | 279 |   <a href="https://onlinejudge.org/external/16/1640.pdf" target="_blank">1640</a>   |  ✔️  | 280 |   <a href="https://onlinejudge.org/external/16/1644.pdf" target="_blank">1644</a>   |  ✔️  |
-| 281 |   <a href="https://onlinejudge.org/external/17/1753.pdf" target="_blank">1753</a>   |  ✔️  | 282 |   <a href="https://onlinejudge.org/external/100/10001.pdf" target="_blank">10001</a>   |  ✔️  | 283 |   <a href="https://onlinejudge.org/external/100/10002.pdf" target="_blank">10002</a>   |  ✔️  | 284 |   <a href="https://onlinejudge.org/external/100/10004.pdf" target="_blank">10004</a>   |    |
+| 281 |   <a href="https://onlinejudge.org/external/17/1753.pdf" target="_blank">1753</a>   |  ✔️  | 282 |   <a href="https://onlinejudge.org/external/100/10001.pdf" target="_blank">10001</a>   |  ✔️  | 283 |   <a href="https://onlinejudge.org/external/100/10002.pdf" target="_blank">10002</a>   |  ✔️  | 284 |   <a href="https://onlinejudge.org/external/100/10004.pdf" target="_blank">10004</a>   |  ✔️  |
 | 285 |   <a href="https://onlinejudge.org/external/100/10006.pdf" target="_blank">10006</a>   |    | 286 |   <a href="https://onlinejudge.org/external/100/10009.pdf" target="_blank">10009</a>   |    | 287 |   <a href="https://onlinejudge.org/external/100/10010.pdf" target="_blank">10010</a>   |    | 288 |   <a href="https://onlinejudge.org/external/100/10013.pdf" target="_blank">10013</a>   |    |
 | 289 |   <a href="https://onlinejudge.org/external/100/10014.pdf" target="_blank">10014</a>   |    | 290 |   <a href="https://onlinejudge.org/external/100/10015.pdf" target="_blank">10015</a>   |    | 291 |   <a href="https://onlinejudge.org/external/100/10016.pdf" target="_blank">10016</a>   |    | 292 |   <a href="https://onlinejudge.org/external/100/10017.pdf" target="_blank">10017</a>   |    |
 | 293 |   <a href="https://onlinejudge.org/external/100/10020.pdf" target="_blank">10020</a>   |    | 294 |   <a href="https://onlinejudge.org/external/100/10028.pdf" target="_blank">10028</a>   |    | 295 |   <a href="https://onlinejudge.org/external/100/10030.pdf" target="_blank">10030</a>   |    | 296 |   <a href="https://onlinejudge.org/external/100/10034.pdf" target="_blank">10034</a>   |    |
