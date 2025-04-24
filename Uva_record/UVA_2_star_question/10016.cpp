@@ -47,7 +47,7 @@ void InverseDiagonal(vector<vector<int>>& mat , int n , int now){
     for(int i = now+1 ; i < n-now-1 ; i++ ){
         swap(mat[i][now] , mat[n-1-now][n-1-i]);
     }
-    
+
 }
 
 int main(){
@@ -108,5 +108,5 @@ int main(){
 1 2 3
 4 5 6
 7 8 9
-1 3
+1 4
 */
