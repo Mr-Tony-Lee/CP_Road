@@ -1,7 +1,7 @@
 # UVa 解題進度 (總共 1064 題)
 
 
-**1星總題數: 234，已解題數✔️: 62，已跳過題數❌: 0**
+**1星總題數: 234，已解題數✔️: 63，已跳過題數❌: 0**
 
 **2星總題數: 303，已解題數✔️: 78，已跳過題數❌: 1**
 
@@ -32,7 +32,7 @@
 | 69 |   <a href="https://onlinejudge.org/external/102/10215.pdf" target="_blank">10215</a>   |    | 70 |   <a href="https://onlinejudge.org/external/102/10221.pdf" target="_blank">10221</a>   |  ✔️  | 71 |   <a href="https://onlinejudge.org/external/102/10222.pdf" target="_blank">10222</a>   |  ✔️  | 72 |   <a href="https://onlinejudge.org/external/102/10226.pdf" target="_blank">10226</a>   |  ✔️  |
 | 73 |   <a href="https://onlinejudge.org/external/102/10235.pdf" target="_blank">10235</a>   |  ✔️  | 74 |   <a href="https://onlinejudge.org/external/102/10242.pdf" target="_blank">10242</a>   |  ✔️  | 75 |   <a href="https://onlinejudge.org/external/102/10257.pdf" target="_blank">10257</a>   |    | 76 |   <a href="https://onlinejudge.org/external/102/10258.pdf" target="_blank">10258</a>   |    |
 | 77 |   <a href="https://onlinejudge.org/external/102/10260.pdf" target="_blank">10260</a>   |    | 78 |   <a href="https://onlinejudge.org/external/102/10268.pdf" target="_blank">10268</a>   |  ✔️  | 79 |   <a href="https://onlinejudge.org/external/102/10279.pdf" target="_blank">10279</a>   |    | 80 |   <a href="https://onlinejudge.org/external/102/10281.pdf" target="_blank">10281</a>   |    |
-| 81 |   <a href="https://onlinejudge.org/external/102/10282.pdf" target="_blank">10282</a>   |    | 82 |   <a href="https://onlinejudge.org/external/103/10300.pdf" target="_blank">10300</a>   |    | 83 |   <a href="https://onlinejudge.org/external/103/10310.pdf" target="_blank">10310</a>   |    | 84 |   <a href="https://onlinejudge.org/external/103/10323.pdf" target="_blank">10323</a>   |    |
+| 81 |   <a href="https://onlinejudge.org/external/102/10282.pdf" target="_blank">10282</a>   |    | 82 |   <a href="https://onlinejudge.org/external/103/10300.pdf" target="_blank">10300</a>   |    | 83 |   <a href="https://onlinejudge.org/external/103/10310.pdf" target="_blank">10310</a>   |    | 84 |   <a href="https://onlinejudge.org/external/103/10323.pdf" target="_blank">10323</a>   |  ✔️  |
 | 85 |   <a href="https://onlinejudge.org/external/103/10324.pdf" target="_blank">10324</a>   |    | 86 |   <a href="https://onlinejudge.org/external/103/10340.pdf" target="_blank">10340</a>   |    | 87 |   <a href="https://onlinejudge.org/external/103/10346.pdf" target="_blank">10346</a>   |    | 88 |   <a href="https://onlinejudge.org/external/103/10370.pdf" target="_blank">10370</a>   |    |
 | 89 |   <a href="https://onlinejudge.org/external/103/10393.pdf" target="_blank">10393</a>   |    | 90 |   <a href="https://onlinejudge.org/external/104/10409.pdf" target="_blank">10409</a>   |  ✔️  | 91 |   <a href="https://onlinejudge.org/external/104/10415.pdf" target="_blank">10415</a>   |  ✔️  | 92 |   <a href="https://onlinejudge.org/external/104/10420.pdf" target="_blank">10420</a>   |  ✔️  |
 | 93 |   <a href="https://onlinejudge.org/external/104/10424.pdf" target="_blank">10424</a>   |    | 94 |   <a href="https://onlinejudge.org/external/104/10443.pdf" target="_blank">10443</a>   |  ✔️  | 95 |   <a href="https://onlinejudge.org/external/104/10469.pdf" target="_blank">10469</a>   |    | 96 |   <a href="https://onlinejudge.org/external/104/10473.pdf" target="_blank">10473</a>   |    |
