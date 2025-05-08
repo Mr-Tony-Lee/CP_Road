@@ -17,7 +17,8 @@ int main(){
             avg += x ;
         }
         sort(arr.begin() , arr.end());
-        double medium = (N & 1) ? arr[arr.size()/2]  : (arr[arr.size()/2]+arr[arr.size()/2-1])/2;
+        // double medium = (N & 1) ? arr[arr.size()/2]  : (arr[arr.size()/2]+arr[arr.size()/2-1])/2;
+        double medium = (N & 1) ? arr[arr.size()/2]  : arr[arr.size()/2-1];
         cout << fixed << setprecision(2) << avg/N << " " << medium << endl;
         // Wrong answer 
     }   
