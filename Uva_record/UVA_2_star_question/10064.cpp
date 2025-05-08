@@ -19,6 +19,7 @@ int main(){
         sort(arr.begin() , arr.end());
         double medium = (N & 1) ? arr[arr.size()/2]  : arr[arr.size()/2]+arr[arr.size()/2+1];
         cout << fixed << setprecision(2) << avg/N << " " << medium << endl;
+        // Wrong 
     }   
 }
 // Output : Arnold的家座標 ( 停在每家時的最佳位置 ) Arnold的家座標 ( 不停留時的最佳位置 )
