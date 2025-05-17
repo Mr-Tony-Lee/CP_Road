@@ -69,3 +69,4 @@ int main() {
         cout << (top+1 < n ? "Yes" : "No") << endl;
     }
 }
+// Wrong , Convex hull.
