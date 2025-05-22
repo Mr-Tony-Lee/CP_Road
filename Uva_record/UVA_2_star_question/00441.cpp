@@ -12,7 +12,7 @@ void dfs(vector<int>& s , int n , vector<int>& ans ){
         cout << endl;
         return ;
     }
-    for(int i = n ; i < s.size() ; i++ ){
+    for(int i = n ; i < (int)s.size() ; i++ ){
         ans.push_back(s[i]);
         dfs(s,i+1, ans);
         ans.pop_back();
