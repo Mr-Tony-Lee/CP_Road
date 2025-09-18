@@ -1,8 +1,8 @@
 # 定義變數
 CXX = g++                # C++ 編譯器
 CXXFLAGS = -Wall -Wextra # 編譯選項：-Wall 和 -Wextra 會開啟額外的警告
-TARGET = 10116            # 最終產生的執行檔名稱
-SOURCE = 10116.cpp        # 原始碼檔案
+TARGET = 10137            # 最終產生的執行檔名稱
+SOURCE = 10137.cpp        # 原始碼檔案
 
 # 這是預設的目標 (default target)，當你直接執行 'make' 時會呼叫它
 all: $(TARGET)
