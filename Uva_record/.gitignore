@@ -1,3 +1,4 @@
 count_all.cpp
 CMakeLists.txt
 build/
+password.txt
