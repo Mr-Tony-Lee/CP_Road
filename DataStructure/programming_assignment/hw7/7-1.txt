@@ -1,0 +1,80 @@
+Selection Sort For size 100 Execute : 1.4e-05 sec
+
+Merge Sort For size 100 Execute : 3.8e-05 sec
+
+Radix Sort For size 100 Execute : 1e-05 sec
+
+C++ Sort For size 100 Execute : 1.6e-05 sec
+
+qsort Sort For size 100 Execute : 1.5e-05 sec
+
+Selection Sort For size 500 Execute : 0.000336 sec
+
+Merge Sort For size 500 Execute : 0.000162 sec
+
+Radix Sort For size 500 Execute : 6.4e-05 sec
+
+C++ Sort For size 500 Execute : 7.8e-05 sec
+
+qsort Sort For size 500 Execute : 8.1e-05 sec
+
+Selection Sort For size 1000 Execute : 0.001109 sec
+
+Merge Sort For size 1000 Execute : 0.000287 sec
+
+Radix Sort For size 1000 Execute : 0.000157 sec
+
+C++ Sort For size 1000 Execute : 0.000157 sec
+
+qsort Sort For size 1000 Execute : 0.000141 sec
+
+Selection Sort For size 5000 Execute : 0.030706 sec
+
+Merge Sort For size 5000 Execute : 0.001637 sec
+
+Radix Sort For size 5000 Execute : 0.000842 sec
+
+C++ Sort For size 5000 Execute : 0.00099 sec
+
+qsort Sort For size 5000 Execute : 0.000834 sec
+
+Selection Sort For size 10000 Execute : 0.075067 sec
+
+Merge Sort For size 10000 Execute : 0.002688 sec
+
+Radix Sort For size 10000 Execute : 0.001692 sec
+
+C++ Sort For size 10000 Execute : 0.00153 sec
+
+qsort Sort For size 10000 Execute : 0.001557 sec
+
+Selection Sort For size 50000 Execute : 2.24676 sec
+
+Merge Sort For size 50000 Execute : 0.014639 sec
+
+Radix Sort For size 50000 Execute : 0.011216 sec
+
+C++ Sort For size 50000 Execute : 0.011884 sec
+
+qsort Sort For size 50000 Execute : 0.010178 sec
+
+Selection Sort For size 100000 Execute : 6.47758 sec
+
+Merge Sort For size 100000 Execute : 0.024793 sec
+
+Radix Sort For size 100000 Execute : 0.016594 sec
+
+C++ Sort For size 100000 Execute : 0.016496 sec
+
+qsort Sort For size 100000 Execute : 0.077664 sec
+
+Selection Sort For size 500000 Execute : 137.418 sec
+
+Merge Sort For size 500000 Execute : 0.137238 sec
+
+Radix Sort For size 500000 Execute : 0.102032 sec
+
+C++ Sort For size 500000 Execute : 0.083575 sec
+
+qsort Sort For size 500000 Execute : 0.087696 sec
+
