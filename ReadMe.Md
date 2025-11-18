@@ -27,6 +27,8 @@ CP_Road/
   - `LIS.cpp` - 最長遞增子序列 (Longest Increasing Subsequence)
 - **SchoolTask**: 學校課程作業（包含旅行推銷員問題 TSP 等經典問題）
 
+---
+
 ### Basic_cpp
 C++ 基礎語法與程式設計練習：
 - **Weekly Labs**: 每週實驗課程練習 (week01 ~ week10)
@@ -36,17 +38,23 @@ C++ 基礎語法與程式設計練習：
 - **Midterm**: 期中考試題目 (p1 ~ p10)
 - 所有編譯輸出存放於各資料夾的 `output/` 目錄
 
+---
+
 ### CSESproblem 
 [CSES Problem Set](https://cses.fi/problemset/) 解題記錄：
 - **Part1_Introductory_Problems**: 入門題目
 - **Part2_Sorting_and_Searching**: 排序與搜尋相關題目
 - 已編譯的執行檔存放於 `output/` 目錄
 
+---
+
 ### DataStructure
 資料結構課程相關內容：
 - **programming_assignment**: 程式作業
 - **TextbookExample**: 教科書範例實作
 - **CPE_Record**: CPE (College Programming Examination) 練習記錄
+
+--- 
 
 ### Uva_record
 [UVa Online Judge](https://onlinejudge.org/) 解題記錄：
