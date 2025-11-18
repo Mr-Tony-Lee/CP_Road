@@ -23,7 +23,6 @@ CP_Road/
 此資料夾包含演算法相關的學習與實作：
 - **Learning**: 重要演算法概念與技巧的學習記錄
   - `distinct_binary_tree.cpp` - 不同二元樹的計數
-  - `Hamiltonian_cycle.cpp` - 哈密頓迴路問題
   - `LIS.cpp` - 最長遞增子序列 (Longest Increasing Subsequence)
 - **SchoolTask**: 學校課程作業（包含旅行推銷員問題 TSP 等經典問題）
 
