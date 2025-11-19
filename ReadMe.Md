@@ -30,7 +30,7 @@ CP_Road/
 
 ### Basic_cpp
 C++ 基礎語法與程式設計練習：
-- **Weekly Labs**: 每週實驗課程練習 (week01 ~ week10)
+- **Weekly Labs**: 每週實驗課程練習 
   - 涵蓋基本輸入輸出、控制流程、函式、陣列、指標等
   - 每週包含 2 個題目與提交說明
 - **Homework**: 課程作業 (hw1, hw2)
