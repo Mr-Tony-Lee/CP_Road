@@ -1,13 +1,82 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-double dis(const pair<int, int>& a, const pair<int, int>& b) {
+
+class TSP{
+    public:
+        TSP(string);  // constructor         
+        void file_in(); // file input handling 
+        void file_out();    // file output handling 
+        void solve_tsp();   // main function to solve 
+        void plot();    // function for ploting 
+        double dis(const pair<int, int>&, const pair<int, int>&); 
+
+    private:
+        string filename;
+        vector<pair<int, int>> arr; // 紀錄 point 的 position 
+        vector<vector<double>> point_dis;   // the distance between point(i) and point(j)
+        int N;  // 總共有幾個點
+        double final_distance ; // 最後的答案
+        vector<int> ans_point;
+
+};
+
+TSP::TSP(string f ){
+    filename = f ;
+    N = 0 ;
+}
+
+double TSP::dis(const pair<int, int>& a, const pair<int, int>& b) {
     double x1 = a.first, y1 = a.second;
     double x2 = b.first, y2 = b.second;
     return sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
 }
 
-void plot(const vector<int>& ans_point, const vector<pair<int, int>>& original_arr, const string& dataset_name) {
+void TSP::file_in(){
+    ifstream fin(filename);
+    if (!fin.is_open()) {
+        cerr << "Error: Cannot open input file " << filename << endl;
+        return;
+    }
+    
+    arr.push_back({0,0});   // 不需要的 point 為了使後面的東西對齊
+    int n, x, y;
+    
+    while (fin >> n >> x >> y && (n || x || y)) {
+        arr.push_back({x,y});
+        N++;
+    }
+    fin.close();
+
+    for(int i = 0 ; i <= N ; i++ ){
+        vector<double> row(N+1,0);
+        for(int j = 1 ; j <= N ; j++ ){
+            if( i == 0 ) break;
+            row[j] = dis(arr[i],arr[j]);
+        }
+        point_dis.push_back(row);
+    }
+    // for(int i = 1 ; i <= N ; i++ ){
+    //     for(int j = 1 ; j <= N ; j++ ){
+    //         cout << point_dis[i][j] << " ";
+    //     }
+    //     cout << endl;
+    // }
+    // cout << endl;
+}
+
+void TSP::file_out(){
+    string output_filename = "output_" + filename;
+    ofstream fout(output_filename);
+    fout << "Distance: " << final_distance << endl;
+    for(int i = 0 ; i < (int)ans_point.size() ; i++ ){
+        fout << ans_point[i] << endl;
+    }
+    fout.close();
+}
+
+void TSP::plot() {
+    string dataset_name = filename.substr(0,filename.size()-4);
     // 使用 popen/pclose (適用於 Linux/WSL)
     FILE *gnuplotPipe = popen("gnuplot", "w"); 
     if (!gnuplotPipe) {
@@ -28,60 +97,21 @@ void plot(const vector<int>& ans_point, const vector<pair<int, int>>& original_a
     // 依據最佳路徑 ans_point (點的編號 N) 輸出座標
     for (int n_id : ans_point) {
         // 查找原始資料中編號為 n_id 的點        
-        fprintf(gnuplotPipe, "%d %d\n", original_arr[n_id].first, original_arr[n_id].second);
+        fprintf(gnuplotPipe, "%d %d\n", arr[n_id].first, arr[n_id].second);
     }
     
     // 繪製完畢後，再次輸出第一個點，形成閉合迴路 (TSP)
     if (!ans_point.empty()) {
         int first_n_id = ans_point.front();
-        fprintf(gnuplotPipe, "%d %d\n", original_arr[first_n_id].first, original_arr[first_n_id].second);
+        fprintf(gnuplotPipe, "%d %d\n", arr[first_n_id].first, arr[first_n_id].second);
     }
 
     fprintf(gnuplotPipe, "e\n"); 
     pclose(gnuplotPipe);
 }
 
-void solve_tsp(const string& filename) {
-
-    ifstream fin(filename);
-    if (!fin.is_open()) {
-        cerr << "Error: Cannot open input file " << filename << endl;
-        return;
-    }
-
-    string output_filename = "output_" + filename;
-    ofstream fout(output_filename);
-
-    vector<pair<int, int>> arr(100); // 儲存 (N, X, Y)，N 為編號
-    int n, x, y;
-    int N = 0 ; 
-    while (fin >> n >> x >> y && (n || x || y)) {
-        arr[n] = {x,y};
-        N++;
-    }
-    fin.close();
-
-    if (arr.empty()) {
-        fout << "File: " << filename << endl;
-        fout << "No data points found." << endl;
-        fout.close();
-        return;
-    }
-    
-    vector<vector<double>> point_dis(N+1,vector<double>(N+1,0));
-    for(int i = 1 ; i <= N ; i++ ){
-        for(int j = 1 ; j <= N ; j++ ){
-            point_dis[i][j] = dis(arr[i],arr[j]);
-        }
-    }
-    // for(int i = 1 ; i <= N ; i++ ){
-    //     for(int j = 1 ; j <= N ; j++ ){
-    //         cout << point_dis[i][j] << " ";
-    //     }
-    //     cout << endl;
-    // }
-    // cout << endl;
-    
+void TSP::solve_tsp() {
+    file_in();
     vector<vector<double>> ans (N+1,vector<double>(1<<N,0));
     vector<vector<int>> ans_map(N+1,vector<int>(1<<N,0));   // 紀錄來源的狀態 
     // 用 bit-wise 的方式去看走了哪幾個點
@@ -153,8 +183,9 @@ void solve_tsp(const string& filename) {
     //     cout << endl;
     // }
     // cout << endl;
-    vector<int> ans_point;
-    double final_distance = ans[1][remain_set];
+
+    final_distance = ans[1][remain_set];
+
     int start = 1 ;
     while(ans_map[start][remain_set] != 0 ){
         ans_point.push_back(start);
@@ -163,15 +194,8 @@ void solve_tsp(const string& filename) {
     }
     ans_point.push_back(1);
     // reverse(ans_point.begin(), ans_point.end());
-    
-
-    fout << "Distance: " << final_distance << endl;
-    for(int i = 0 ; i < (int)ans_point.size() ; i++ ){
-        fout << ans_point[i] << endl;
-    }
-    fout.close();
-    string filename_remove_txt = filename.substr(0,filename.size()-4);
-    plot(ans_point, arr, filename_remove_txt);
+    file_out();
+    plot();
 }
 
 
@@ -185,7 +209,8 @@ int main(int argc, char* argv[]) {
     // 迴圈處理所有傳入的檔案
     for (int i = 1; i < argc; ++i) {
         string filename = argv[i];
-        solve_tsp(filename);
+        TSP tsp(filename);
+        tsp.solve_tsp();
         cout << "Pass: " << filename << endl;
     }
     return 0;
