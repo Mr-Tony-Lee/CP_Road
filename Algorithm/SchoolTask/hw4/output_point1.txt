@@ -1,0 +1,7 @@
+Best Distance: 194.153
+Average Distance: 194.153
+1
+4
+3
+2
+5
