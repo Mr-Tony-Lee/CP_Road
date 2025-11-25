@@ -1,8 +1,8 @@
 # 定義變數
 CXX = g++                # C++ 編譯器
 CXXFLAGS = -Wall -Wextra -O3 # 編譯選項：-Wall 和 -Wextra 會開啟額外的警告
-TARGET = submit            # 最終產生的執行檔名稱
-SOURCE = submit.cpp        # 原始碼檔案
+TARGET = final            # 最終產生的執行檔名稱
+SOURCE = final.cpp        # 原始碼檔案
 
 # 這是預設的目標 (default target)，當你直接執行 'make' 時會呼叫它
 all: $(TARGET)
