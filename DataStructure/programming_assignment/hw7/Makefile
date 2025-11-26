@@ -1,8 +1,8 @@
 # 定義變數
 CXX = g++                # C++ 編譯器
-CXXFLAGS = -Wall -Wextra -O3 # 編譯選項：-Wall 和 -Wextra 會開啟額外的警告，-O3 開啟最高級別優化
-TARGET = final            # 最終產生的執行檔名稱
-SOURCE = final.cpp        # 原始碼檔案
+CXXFLAGS = -Wall -Wextra -O3 # 編譯選項：-Wall 和 -Wextra 會開啟額外的警告
+TARGET = 7-1            # 最終產生的執行檔名稱
+SOURCE = 7-1.cpp        # 原始碼檔案
 
 # 這是預設的目標 (default target)，當你直接執行 'make' 時會呼叫它
 all: $(TARGET)
@@ -10,10 +10,7 @@ all: $(TARGET)
 # 編譯規則：如何從 .cpp 檔案產生執行檔
 $(TARGET): $(SOURCE)
 	$(CXX) $(CXXFLAGS) $(LDFLAGS) $(SOURCE) -o $(TARGET)
-	./$(TARGET) point1.txt 
-	./$(TARGET) point2.txt 
-	./$(TARGET) point3.txt 
-	./$(TARGET) point4.txt 
+	./$(TARGET) 
 
 # 'clean' 目標：用來清除編譯過程中產生的檔案
 clean:

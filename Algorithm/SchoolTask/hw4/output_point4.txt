@@ -1,5 +1,7 @@
 Best Distance: 428.872
-Average Distance: 429.369
+Average Distance: 429.380
+48
+23
 7
 43
 24
@@ -49,5 +51,3 @@ Average Distance: 429.369
 51
 27
 6
-48
-23
