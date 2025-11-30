@@ -190,7 +190,7 @@ public:
             long long sumLE = le.second;
 
             long long lenLL = (long long)len;
-            
+
             long long greaterCnt = lenLL - cntLE;
             long long sumGreater = totalSum - sumLE;
 
@@ -204,3 +204,4 @@ public:
         return ans;
     }
 };
+// 1570ms, 541.36MB
