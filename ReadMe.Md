@@ -14,6 +14,7 @@ CP_Road/
 ├── Basic_cpp/          # C++ 基礎學習
 ├── CSESproblem/        # CSES 題庫解題
 ├── DataStructure/      # 資料結構學習與作業
+├── Leetcode/           # LeetCode 題目練習
 └── Uva_record/         # UVa Online Judge 解題記錄
 ```
 
