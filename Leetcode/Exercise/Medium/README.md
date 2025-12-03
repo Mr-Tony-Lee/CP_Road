@@ -4,3 +4,5 @@
 ## 目錄
 - [LeetCode 1590. Make Sum Divisible by P](Leetcode1590/README.md)
     - **tag** : Array, Hash Table, Prefix Sum, Biweekly Contest 35
+- [LeetCode 3623. Count Number of Trapezoids I](Leetcode3623/README.md)
+    - **tag** : Array, Hash Table, Math, Geometry, Weekly Contest 459 
