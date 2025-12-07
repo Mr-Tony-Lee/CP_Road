@@ -1,5 +1,6 @@
-Best Distance: 256.901
-Average Distance: 256.901
+Mean Distance: 256.901
+Distance: 256.901
+10
 9
 2
 1
@@ -9,4 +10,3 @@ Average Distance: 256.901
 3
 8
 4
-10
