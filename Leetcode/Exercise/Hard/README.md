@@ -3,6 +3,6 @@
 
 ## 目錄
 - [LeetCode 2141. Maximum Running Time of N Computers](Leetcode2141/README.md)
-    - **tag** : Array, Binary Search, Greedy, Sorting, Weekly Contest 276
+    - **tag** : Hard, Array, Binary Search, Greedy, Sorting, Weekly Contest 276
 - [LeetCode 3625. Count Number of Trapezoids II](Leetcode3625/README.md)
-    - **tag** : Array, Hash Table, Math, Geometry, Weekly Contest 459
+    - **tag** : Hard, Array, Hash Table, Math, Geometry, Weekly Contest 459
