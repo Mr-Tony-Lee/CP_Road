@@ -6,5 +6,7 @@
     - **tag** : Array, Hash Table, Prefix Sum, Biweekly Contest 35
 - [LeetCode 2211. Count Collisions on a Road](Leetcode2211/README.md)
     - **tag** : String, Stack,Simulation ,Weekly Contest 285
+- [LeetCode 3578. Count Partitions With Max-Min Difference at Most K](Leetcode3578/README.md)
+    - **tag** : Array, Dynamic Programming, Queue, Sliding Window, Prefix Sum, Monotonic Queue, Weekly Contest 453
 - [LeetCode 3623. Count Number of Trapezoids I](Leetcode3623/README.md)
     - **tag** : Array, Hash Table, Math, Geometry, Weekly Contest 459 
