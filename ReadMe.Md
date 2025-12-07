@@ -56,6 +56,18 @@ C++ 基礎語法與程式設計練習：
 
 --- 
 
+### Leetcode
+Leetcode 題目練習記錄：
+- **Exercise**: 按難度分類的題目練習
+  - `Easy/` - 簡單題目
+  - `Medium/` - 中等題目
+  - `Hard/` - 困難題目
+- **WeeklyContest/**: 參加的 Weekly Contest 題目
+- **BiweeklyContest/**: 參加的 Biweekly Contest 題目
+- 每個題目附有解題思路與程式碼實作
+
+---
+
 ### Uva_record
 [UVa Online Judge](https://onlinejudge.org/) 解題記錄：
 - **Organized by Difficulty**: 依照CPE的難度表進行分類（1-star 到 5-star）
