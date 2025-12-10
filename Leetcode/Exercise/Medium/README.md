@@ -8,5 +8,7 @@
     - **tag** : Medium, String, Stack,Simulation ,Weekly Contest 285
 - [LeetCode 3578. Count Partitions With Max-Min Difference at Most K](Leetcode3578/README.md)
     - **tag** : Medium, Array, Dynamic Programming, Queue, Sliding Window, Prefix Sum, Monotonic Queue, Weekly Contest 453
+- [LeetCode 3583. Count Special Triplets](Leetcode3583/README.md)
+    - **tag** : Medium, Array, Hash Table, Counting, Weekly Contest 454
 - [LeetCode 3623. Count Number of Trapezoids I](Leetcode3623/README.md)
     - **tag** : Medium, Array, Hash Table, Math, Geometry, Weekly Contest 459 

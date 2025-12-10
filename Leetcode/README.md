@@ -1,7 +1,7 @@
 # Leetcode Records
 這裡列出了所有我在 Leetcode 中解決的問題
 
-## 目錄 ( 共 21 題 )
+## 目錄 ( 共 22 題 )
 
 ### [Leetcode 1523. Count Odd Numbers in an Interval Range](Exercise/Easy/Leetcode1523/README.md)
 - ![Easy](https://img.shields.io/badge/-Easy-green) ![Math](https://img.shields.io/badge/-Math-gray) ![Biweekly Contest 31](https://img.shields.io/badge/-Biweekly%20Contest%2031-gray)
@@ -17,6 +17,8 @@
 - ![Easy](https://img.shields.io/badge/-Easy-green) ![Array](https://img.shields.io/badge/-Array-gray) ![Math](https://img.shields.io/badge/-Math-gray) ![Prefix Sum](https://img.shields.io/badge/-Prefix%20Sum-gray) ![Weekly Contest 434](https://img.shields.io/badge/-Weekly%20Contest%20434-gray)
 ### [LeetCode 3578. Count Partitions With Max-Min Difference at Most K](Exercise/Medium/Leetcode3578/README.md)
 - ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Dynamic Programming](https://img.shields.io/badge/-Dynamic%20Programming-gray) ![Queue](https://img.shields.io/badge/-Queue-gray) ![Sliding Window](https://img.shields.io/badge/-Sliding%20Window-gray) ![Prefix Sum](https://img.shields.io/badge/-Prefix%20Sum-gray) ![Monotonic Queue](https://img.shields.io/badge/-Monotonic%20Queue-gray) ![Weekly Contest 453](https://img.shields.io/badge/-Weekly%20Contest%20453-gray)
+### [LeetCode 3583. Count Special Triplets](Exercise/Medium/Leetcode3583/README.md)
+- ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Hash Table](https://img.shields.io/badge/-Hash%20Table-gray) ![Counting](https://img.shields.io/badge/-Counting-gray) ![Weekly Contest 454](https://img.shields.io/badge/-Weekly%20Contest%20454-gray)
 ### [LeetCode 3623. Count Number of Trapezoids I](Exercise/Medium/Leetcode3623/README.md)
 - ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Hash Table](https://img.shields.io/badge/-Hash%20Table-gray) ![Math](https://img.shields.io/badge/-Math-gray) ![Geometry](https://img.shields.io/badge/-Geometry-gray) ![Weekly Contest 459](https://img.shields.io/badge/-Weekly%20Contest%20459-gray)
 ### [LeetCode 3625. Count Number of Trapezoids II](Exercise/Hard/Leetcode3625/README.md)
