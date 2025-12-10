@@ -6,6 +6,8 @@
     - **tag** : Medium, Array, Hash Table, Prefix Sum, Biweekly Contest 35
 - [LeetCode 2211. Count Collisions on a Road](Leetcode2211/README.md)
     - **tag** : Medium, String, Stack,Simulation ,Weekly Contest 285
+- [LeetCode 3577. Count the Number of Computer Unlocking Permutations](Leetcode3577/README.md)
+    - **tag** : Medium, Array, Math, Brainteaser, Combinatorics, Weekly Contest 453
 - [LeetCode 3578. Count Partitions With Max-Min Difference at Most K](Leetcode3578/README.md)
     - **tag** : Medium, Array, Dynamic Programming, Queue, Sliding Window, Prefix Sum, Monotonic Queue, Weekly Contest 453
 - [LeetCode 3583. Count Special Triplets](Leetcode3583/README.md)

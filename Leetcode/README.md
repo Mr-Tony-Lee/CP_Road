@@ -1,7 +1,7 @@
 # Leetcode Records
 這裡列出了所有我在 Leetcode 中解決的問題
 
-## 目錄 ( 共 22 題 )
+## 目錄 ( 共 23 題 )
 
 ### [Leetcode 1523. Count Odd Numbers in an Interval Range](Exercise/Easy/Leetcode1523/README.md)
 - ![Easy](https://img.shields.io/badge/-Easy-green) ![Math](https://img.shields.io/badge/-Math-gray) ![Biweekly Contest 31](https://img.shields.io/badge/-Biweekly%20Contest%2031-gray)
@@ -15,6 +15,8 @@
 - ![Medium](https://img.shields.io/badge/-Medium-yellow) ![String](https://img.shields.io/badge/-String-gray) ![Stack](https://img.shields.io/badge/-Stack-gray) ![Simulation](https://img.shields.io/badge/-Simulation-gray) ![Weekly Contest 285](https://img.shields.io/badge/-Weekly%20Contest%20285-gray)
 ### [Leetcode 3432. Count Partitions with Even Sum Difference](Exercise/Easy/Leetcode3432/README.md)
 - ![Easy](https://img.shields.io/badge/-Easy-green) ![Array](https://img.shields.io/badge/-Array-gray) ![Math](https://img.shields.io/badge/-Math-gray) ![Prefix Sum](https://img.shields.io/badge/-Prefix%20Sum-gray) ![Weekly Contest 434](https://img.shields.io/badge/-Weekly%20Contest%20434-gray)
+### [LeetCode 3577. Count the Number of Computer Unlocking Permutations](Exercise/Medium/Leetcode3577/README.md)
+- ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Math](https://img.shields.io/badge/-Math-gray) ![Brainteaser](https://img.shields.io/badge/-Brainteaser-gray) ![Combinatorics](https://img.shields.io/badge/-Combinatorics-gray) ![Weekly Contest 453](https://img.shields.io/badge/-Weekly%20Contest%20453-gray)
 ### [LeetCode 3578. Count Partitions With Max-Min Difference at Most K](Exercise/Medium/Leetcode3578/README.md)
 - ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Dynamic Programming](https://img.shields.io/badge/-Dynamic%20Programming-gray) ![Queue](https://img.shields.io/badge/-Queue-gray) ![Sliding Window](https://img.shields.io/badge/-Sliding%20Window-gray) ![Prefix Sum](https://img.shields.io/badge/-Prefix%20Sum-gray) ![Monotonic Queue](https://img.shields.io/badge/-Monotonic%20Queue-gray) ![Weekly Contest 453](https://img.shields.io/badge/-Weekly%20Contest%20453-gray)
 ### [LeetCode 3583. Count Special Triplets](Exercise/Medium/Leetcode3583/README.md)
