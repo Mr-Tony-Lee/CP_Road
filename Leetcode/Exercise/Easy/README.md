@@ -8,3 +8,5 @@
     - **tag** : Easy, Math, Enumeration, Biweekly Contest 56
 - [Leetcode 3432. Count Partitions with Even Sum Difference](Leetcode3432/README.md)
     - **tag** : Easy, Array, Math, Prefix Sum, Weekly Contest 434
+- [Leetcode 3606. Coupon Code Validator](Leetcode3606/ReadMe.md)
+    - **tag** : Easy, Array, Hash Table, String, Sorting, Weekly Contest 457
