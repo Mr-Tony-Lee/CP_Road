@@ -4,5 +4,7 @@
 ## 目錄
 - [LeetCode 2141. Maximum Running Time of N Computers](Leetcode2141/README.md)
     - **tag** : Hard, Array, Binary Search, Greedy, Sorting, Weekly Contest 276
+- [LeetCode 2147. Number of Ways to Divide a Long Corridor](Leetcode2147/README.md)
+    - **tag** : Hard, String, Dynamic Programming, Math, Biweekly Contest 70
 - [LeetCode 3625. Count Number of Trapezoids II](Leetcode3625/README.md)
     - **tag** : Hard, Array, Hash Table, Math, Geometry, Weekly Contest 459
