@@ -1,7 +1,7 @@
 # Leetcode Records
 這裡列出了所有我在 Leetcode 中解決的問題
 
-## 目錄 ( 共 23 題 )
+## 目錄 ( 共 26 題 )
 
 ### [Leetcode 1523. Count Odd Numbers in an Interval Range](Exercise/Easy/Leetcode1523/README.md)
 - ![Easy](https://img.shields.io/badge/-Easy-green) ![Math](https://img.shields.io/badge/-Math-gray) ![Biweekly Contest 31](https://img.shields.io/badge/-Biweekly%20Contest%2031-gray)
@@ -11,16 +11,22 @@
 - ![Easy](https://img.shields.io/badge/-Easy-green) ![Math](https://img.shields.io/badge/-Math-gray) ![Enumeration](https://img.shields.io/badge/-Enumeration-gray) ![Biweekly Contest 56](https://img.shields.io/badge/-Biweekly%20Contest%2056-gray)
 ### [LeetCode 2141. Maximum Running Time of N Computers](Exercise/Hard/Leetcode2141/README.md)
 - ![Hard](https://img.shields.io/badge/-Hard-red) ![Array](https://img.shields.io/badge/-Array-gray) ![Binary Search](https://img.shields.io/badge/-Binary%20Search-gray) ![Greedy](https://img.shields.io/badge/-Greedy-gray) ![Sorting](https://img.shields.io/badge/-Sorting-gray) ![Weekly Contest 276](https://img.shields.io/badge/-Weekly%20Contest%20276-gray)
+### [LeetCode 2147. Number of Ways to Divide a Long Corridor](Exercise/Hard/Leetcode2147/README.md)
+- ![Hard](https://img.shields.io/badge/-Hard-red) ![String](https://img.shields.io/badge/-String-gray) ![Dynamic Programming](https://img.shields.io/badge/-Dynamic%20Programming-gray) ![Math](https://img.shields.io/badge/-Math-gray) ![Biweekly Contest 70](https://img.shields.io/badge/-Biweekly%20Contest%2070-gray)
 ### [LeetCode 2211. Count Collisions on a Road](Exercise/Medium/Leetcode2211/README.md)
 - ![Medium](https://img.shields.io/badge/-Medium-yellow) ![String](https://img.shields.io/badge/-String-gray) ![Stack](https://img.shields.io/badge/-Stack-gray) ![Simulation](https://img.shields.io/badge/-Simulation-gray) ![Weekly Contest 285](https://img.shields.io/badge/-Weekly%20Contest%20285-gray)
 ### [Leetcode 3432. Count Partitions with Even Sum Difference](Exercise/Easy/Leetcode3432/README.md)
 - ![Easy](https://img.shields.io/badge/-Easy-green) ![Array](https://img.shields.io/badge/-Array-gray) ![Math](https://img.shields.io/badge/-Math-gray) ![Prefix Sum](https://img.shields.io/badge/-Prefix%20Sum-gray) ![Weekly Contest 434](https://img.shields.io/badge/-Weekly%20Contest%20434-gray)
+### [LeetCode 3531. Count Covered Buildings](Exercise/Medium/Leetcode3531/README.md)
+- ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Hash Table](https://img.shields.io/badge/-Hash%20Table-gray) ![Sorting](https://img.shields.io/badge/-Sorting-gray) ![Weekly Contest 447](https://img.shields.io/badge/-Weekly%20Contest%20447-gray)
 ### [LeetCode 3577. Count the Number of Computer Unlocking Permutations](Exercise/Medium/Leetcode3577/README.md)
 - ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Math](https://img.shields.io/badge/-Math-gray) ![Brainteaser](https://img.shields.io/badge/-Brainteaser-gray) ![Combinatorics](https://img.shields.io/badge/-Combinatorics-gray) ![Weekly Contest 453](https://img.shields.io/badge/-Weekly%20Contest%20453-gray)
 ### [LeetCode 3578. Count Partitions With Max-Min Difference at Most K](Exercise/Medium/Leetcode3578/README.md)
 - ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Dynamic Programming](https://img.shields.io/badge/-Dynamic%20Programming-gray) ![Queue](https://img.shields.io/badge/-Queue-gray) ![Sliding Window](https://img.shields.io/badge/-Sliding%20Window-gray) ![Prefix Sum](https://img.shields.io/badge/-Prefix%20Sum-gray) ![Monotonic Queue](https://img.shields.io/badge/-Monotonic%20Queue-gray) ![Weekly Contest 453](https://img.shields.io/badge/-Weekly%20Contest%20453-gray)
 ### [LeetCode 3583. Count Special Triplets](Exercise/Medium/Leetcode3583/README.md)
 - ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Hash Table](https://img.shields.io/badge/-Hash%20Table-gray) ![Counting](https://img.shields.io/badge/-Counting-gray) ![Weekly Contest 454](https://img.shields.io/badge/-Weekly%20Contest%20454-gray)
+### [Leetcode 3606. Coupon Code Validator](Exercise/Easy/Leetcode3606/ReadMe.md)
+- ![Easy](https://img.shields.io/badge/-Easy-green) ![Array](https://img.shields.io/badge/-Array-gray) ![Hash Table](https://img.shields.io/badge/-Hash%20Table-gray) ![String](https://img.shields.io/badge/-String-gray) ![Sorting](https://img.shields.io/badge/-Sorting-gray) ![Weekly Contest 457](https://img.shields.io/badge/-Weekly%20Contest%20457-gray)
 ### [LeetCode 3623. Count Number of Trapezoids I](Exercise/Medium/Leetcode3623/README.md)
 - ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Hash Table](https://img.shields.io/badge/-Hash%20Table-gray) ![Math](https://img.shields.io/badge/-Math-gray) ![Geometry](https://img.shields.io/badge/-Geometry-gray) ![Weekly Contest 459](https://img.shields.io/badge/-Weekly%20Contest%20459-gray)
 ### [LeetCode 3625. Count Number of Trapezoids II](Exercise/Hard/Leetcode3625/README.md)
