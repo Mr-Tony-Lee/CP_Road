@@ -4,6 +4,8 @@
 ## 目錄
 - [LeetCode 1590. Make Sum Divisible by P](Leetcode1590/README.md)
     - **tag** : Medium, Array, Hash Table, Prefix Sum, Biweekly Contest 35
+- [LeetCode 2110. Number of Smooth Descent Periods of a Stock](Leetcode2110/README.md)
+    - **tag** : Medium, Array, Math, Dynamic Programming, Weekly Contest 272
 - [LeetCode 2211. Count Collisions on a Road](Leetcode2211/README.md)
     - **tag** : Medium, String, Stack,Simulation ,Weekly Contest 285
 - [LeetCode 3531. Count Covered Buildings](Leetcode3531/README.md)

@@ -1,7 +1,7 @@
 # Leetcode Records
 這裡列出了所有我在 Leetcode 中解決的問題
 
-## 目錄 ( 共 26 題 )
+## 目錄 ( 共 27 題 )
 
 ### [Leetcode 1523. Count Odd Numbers in an Interval Range](Exercise/Easy/Leetcode1523/README.md)
 - ![Easy](https://img.shields.io/badge/-Easy-green) ![Math](https://img.shields.io/badge/-Math-gray) ![Biweekly Contest 31](https://img.shields.io/badge/-Biweekly%20Contest%2031-gray)
@@ -9,6 +9,8 @@
 - ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Hash Table](https://img.shields.io/badge/-Hash%20Table-gray) ![Prefix Sum](https://img.shields.io/badge/-Prefix%20Sum-gray) ![Biweekly Contest 35](https://img.shields.io/badge/-Biweekly%20Contest%2035-gray)
 ### [Leetcode 1925. Count Square Sum Triples](Exercise/Easy/Leetcode1925/README.md)
 - ![Easy](https://img.shields.io/badge/-Easy-green) ![Math](https://img.shields.io/badge/-Math-gray) ![Enumeration](https://img.shields.io/badge/-Enumeration-gray) ![Biweekly Contest 56](https://img.shields.io/badge/-Biweekly%20Contest%2056-gray)
+### [LeetCode 2110. Number of Smooth Descent Periods of a Stock](Exercise/Medium/Leetcode2110/README.md)
+- ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Math](https://img.shields.io/badge/-Math-gray) ![Dynamic Programming](https://img.shields.io/badge/-Dynamic%20Programming-gray) ![Weekly Contest 272](https://img.shields.io/badge/-Weekly%20Contest%20272-gray)
 ### [LeetCode 2141. Maximum Running Time of N Computers](Exercise/Hard/Leetcode2141/README.md)
 - ![Hard](https://img.shields.io/badge/-Hard-red) ![Array](https://img.shields.io/badge/-Array-gray) ![Binary Search](https://img.shields.io/badge/-Binary%20Search-gray) ![Greedy](https://img.shields.io/badge/-Greedy-gray) ![Sorting](https://img.shields.io/badge/-Sorting-gray) ![Weekly Contest 276](https://img.shields.io/badge/-Weekly%20Contest%20276-gray)
 ### [LeetCode 2147. Number of Ways to Divide a Long Corridor](Exercise/Hard/Leetcode2147/README.md)
