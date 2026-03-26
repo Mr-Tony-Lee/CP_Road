@@ -2,6 +2,8 @@
 這裡有了一些 Leetcode 中的中等難度題目，並附上解題思路與程式碼實作
 
 ## 目錄
+- [LeetCode 15. 3Sum](Leetcode0015/README.md)
+    - **tag** : Medium, Array, Two Pointers, Sorting
 - [LeetCode 1590. Make Sum Divisible by P](Leetcode1590/README.md)
     - **tag** : Medium, Array, Hash Table, Prefix Sum, Biweekly Contest 35
 - [LeetCode 2110. Number of Smooth Descent Periods of a Stock](Leetcode2110/README.md)
