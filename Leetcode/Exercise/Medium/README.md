@@ -2,7 +2,11 @@
 這裡有了一些 Leetcode 中的中等難度題目，並附上解題思路與程式碼實作
 
 ## 目錄
+- [LeetCode 2. Add Two Numbers](Leetcode0002/README.md)
+    - **tag** : Medium, Principal, Linked List, Math, Recursion
 - [LeetCode 15. 3Sum](Leetcode0015/README.md)
+    - **tag** : Medium, Array, Two Pointers, Sorting
+- [LeetCode 18. 4Sum](Leetcode0018/README.md)
     - **tag** : Medium, Array, Two Pointers, Sorting
 - [LeetCode 1590. Make Sum Divisible by P](Leetcode1590/README.md)
     - **tag** : Medium, Array, Hash Table, Prefix Sum, Biweekly Contest 35
