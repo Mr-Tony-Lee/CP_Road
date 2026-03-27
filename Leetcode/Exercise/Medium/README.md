@@ -6,6 +6,8 @@
     - **tag** : Medium, Principal, Linked List, Math, Recursion
 - [LeetCode 3. Longest Substring Without Repeating Characters](Leetcode0003/README.md)
     - **tag** : Medium, String, Sliding Window, Hash Table, Staff
+- [LeetCode 5. Longest Palindromic Substring](Leetcode0005/README.md)
+    - **tag** : Medium, Two Pointers, String, Dynamic Programming
 - [LeetCode 6. Zigzag Conversion](Leetcode0006/README.md)
     - **tag** : Medium, String
 - [LeetCode 15. 3Sum](Leetcode0015/README.md)
