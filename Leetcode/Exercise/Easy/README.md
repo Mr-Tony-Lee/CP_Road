@@ -8,6 +8,8 @@
     - **tag** : Easy, Math, Biweekly Contest 31
 - [Leetcode 1925. Count Square Sum Triples](Leetcode1925/README.md)
     - **tag** : Easy, Math, Enumeration, Biweekly Contest 56
+- [Leetcode 2946. Matrix Similarity After Cyclic Shifts](Leetcode2946/README.md)
+    - **tag** : Easy, Array, Math, Matrix, Simulation, Weekly Contest 373
 - [Leetcode 3432. Count Partitions with Even Sum Difference](Leetcode3432/README.md)
     - **tag** : Easy, Array, Math, Prefix Sum, Weekly Contest 434
 - [Leetcode 3606. Coupon Code Validator](Leetcode3606/ReadMe.md)
