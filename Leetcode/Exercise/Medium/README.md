@@ -4,6 +4,8 @@
 ## 目錄
 - [LeetCode 2. Add Two Numbers](Leetcode0002/README.md)
     - **tag** : Medium, Principal, Linked List, Math, Recursion
+- [LeetCode 3. Longest Substring Without Repeating Characters](Leetcode0003/README.md)
+    - **tag** : Medium, String, Sliding Window, Hash Table, Staff
 - [LeetCode 15. 3Sum](Leetcode0015/README.md)
     - **tag** : Medium, Array, Two Pointers, Sorting
 - [LeetCode 18. 4Sum](Leetcode0018/README.md)
