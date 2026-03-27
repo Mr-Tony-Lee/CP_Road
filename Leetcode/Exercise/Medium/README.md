@@ -10,6 +10,8 @@
     - **tag** : Medium, Two Pointers, String, Dynamic Programming
 - [LeetCode 6. Zigzag Conversion](Leetcode0006/README.md)
     - **tag** : Medium, String
+- [LeetCode 7. Reverse Integer](Leetcode0007/README.md)
+    - **tag** : Medium, Math
 - [LeetCode 15. 3Sum](Leetcode0015/README.md)
     - **tag** : Medium, Array, Two Pointers, Sorting
 - [LeetCode 18. 4Sum](Leetcode0018/README.md)
