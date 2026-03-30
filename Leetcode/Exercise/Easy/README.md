@@ -2,6 +2,8 @@
 這裡有了一些 Leetcode 中的簡單難度題目，並附上解題思路與程式碼實作
 
 ## 目錄
+- [Leetcode 1. Two Sum](Leetcode0001/README.md)
+    - **tag** : Easy, Hash Table, Array
 - [Leetcode 459. Repeated Substring Pattern](Leetcode459/README.md)
     - **tag** : Easy, String, String Matching
 - [Leetcode 1523. Count Odd Numbers in an Interval Range](Leetcode1523/README.md)
