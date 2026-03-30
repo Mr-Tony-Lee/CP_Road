@@ -4,6 +4,8 @@
 ## 目錄
 - [Leetcode 1. Two Sum](Leetcode0001/README.md)
     - **tag** : Easy, Hash Table, Array
+- [Leetcode 9. Palindrome Number](Leetcode0009/README.md)
+    - **tag** : Easy, Math
 - [Leetcode 459. Repeated Substring Pattern](Leetcode459/README.md)
     - **tag** : Easy, String, String Matching
 - [Leetcode 1523. Count Odd Numbers in an Interval Range](Leetcode1523/README.md)
