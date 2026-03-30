@@ -22,6 +22,8 @@
     - **tag** : Medium, Array, Math, Dynamic Programming, Weekly Contest 272
 - [LeetCode 2211. Count Collisions on a Road](Leetcode2211/README.md)
     - **tag** : Medium, String, Stack,Simulation ,Weekly Contest 285
+- [LeetCode 2840. Check if Strings Can be Made Equal With Operations II](Leetcode2840/README.md)
+    - **tag** : Medium, Hash Table, String, Sorting, Biweekly Contest 112
 - [LeetCode 3531. Count Covered Buildings](Leetcode3531/README.md)
     - **tag** : Medium, Array, Hash Table, Sorting, Weekly Contest 447
 - [LeetCode 3577. Count the Number of Computer Unlocking Permutations](Leetcode3577/README.md)
