@@ -1,7 +1,7 @@
 # Leetcode Records
 這裡列出了所有我在 Leetcode 中解決的問題
 
-## 目錄 ( 共 42 題 )
+## 目錄 ( 共 43 題 )
 
 ### [Leetcode 1. Two Sum](Exercise/Easy/Leetcode0001/README.md)
 - ![Easy](https://img.shields.io/badge/-Easy-green) ![Hash Table](https://img.shields.io/badge/-Hash%20Table-gray) ![Array](https://img.shields.io/badge/-Array-gray)
@@ -33,6 +33,8 @@
 - ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Hash Table](https://img.shields.io/badge/-Hash%20Table-gray) ![Prefix Sum](https://img.shields.io/badge/-Prefix%20Sum-gray) ![Biweekly Contest 35](https://img.shields.io/badge/-Biweekly%20Contest%2035-gray)
 ### [Leetcode 1925. Count Square Sum Triples](Exercise/Easy/Leetcode1925/README.md)
 - ![Easy](https://img.shields.io/badge/-Easy-green) ![Math](https://img.shields.io/badge/-Math-gray) ![Enumeration](https://img.shields.io/badge/-Enumeration-gray) ![Biweekly Contest 56](https://img.shields.io/badge/-Biweekly%20Contest%2056-gray)
+### [LeetCode 2075. Decode the Slanted Ciphertext](Exercise/Medium/Leetcode2075/README.md)
+- ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Staff](https://img.shields.io/badge/-Staff-gray) ![String](https://img.shields.io/badge/-String-gray) ![Simulation](https://img.shields.io/badge/-Simulation-gray) ![Weekly Contest 267](https://img.shields.io/badge/-Weekly%20Contest%20267-gray)
 ### [LeetCode 2110. Number of Smooth Descent Periods of a Stock](Exercise/Medium/Leetcode2110/README.md)
 - ![Medium](https://img.shields.io/badge/-Medium-yellow) ![Array](https://img.shields.io/badge/-Array-gray) ![Math](https://img.shields.io/badge/-Math-gray) ![Dynamic Programming](https://img.shields.io/badge/-Dynamic%20Programming-gray) ![Weekly Contest 272](https://img.shields.io/badge/-Weekly%20Contest%20272-gray)
 ### [LeetCode 2141. Maximum Running Time of N Computers](Exercise/Hard/Leetcode2141/README.md)
