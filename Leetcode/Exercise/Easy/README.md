@@ -14,6 +14,8 @@
     - **tag** : Easy, Math, Enumeration, Biweekly Contest 56
 - [Leetcode 2946. Matrix Similarity After Cyclic Shifts](Leetcode2946/README.md)
     - **tag** : Easy, Array, Math, Matrix, Simulation, Weekly Contest 373
+- [Leetcode 3364. Minimum Positive Sum Subarray](Leetcode3364/ReadMe.md)
+    - **tag** : Easy, Mid Level, Array, Sliding Window, Prefix Sum, Weekly Contest 425
 - [Leetcode 3432. Count Partitions with Even Sum Difference](Leetcode3432/README.md)
     - **tag** : Easy, Array, Math, Prefix Sum, Weekly Contest 434
 - [Leetcode 3606. Coupon Code Validator](Leetcode3606/ReadMe.md)
