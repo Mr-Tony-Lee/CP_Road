@@ -20,6 +20,8 @@
     - **tag** : Medium, Hash Table, String, Backtracking
 - [LeetCode 18. 4Sum](Leetcode0018/README.md)
     - **tag** : Medium, Array, Two Pointers, Sorting
+- [LeetCode 1524. Number of Sub-arrays With Odd Sum](Leetcode1524/README.md)
+    - **tag** : Medium, Senior, Array, Math, Dynamic Programming, Prefix Sum, Biweekly Contest 31
 - [LeetCode 1590. Make Sum Divisible by P](Leetcode1590/README.md)
     - **tag** : Medium, Array, Hash Table, Prefix Sum, Biweekly Contest 35
 - [LeetCode 2075. Decode the Slanted Ciphertext](Leetcode2075/README.md)
