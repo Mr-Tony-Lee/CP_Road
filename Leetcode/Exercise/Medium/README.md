@@ -44,3 +44,5 @@
     - **tag** : Medium, Array, Hash Table, Counting, Weekly Contest 454
 - [LeetCode 3623. Count Number of Trapezoids I](Leetcode3623/README.md)
     - **tag** : Medium, Array, Hash Table, Math, Geometry, Weekly Contest 459 
+- [LeetCode 3693. Climbing Stairs II](Leetcode3693/README.md)
+    - **tag** : Medium, Senior, Array, Dynamic Programming, Biweekly Contest 166
